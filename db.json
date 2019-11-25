@@ -1,8 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
   "tasks": [
     { "id": 1, "title": "Undichtes Rohr reparieren" },
     { "id": 2, "title": "Boiler installieren" },
