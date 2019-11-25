@@ -4,14 +4,12 @@
     { "id": 2, "title": "Boiler installieren" },
     { "id": 3, "title": "Heizung Service" }
   ],
-  "comments": [
   "description": [
     { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 2, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 3 }
   ],
   "profile": {
-    "name": "typicode"
     "name": "adam"
   }
 }
