@@ -1,1 +1,21 @@
-{ "type": "success", "value": [ { "id": 153, "joke": "The movie &quot;Delta Force&quot; was extremely hard to make because Chuck had to downplay his abilities. The first few cuts were completely unbelievable.", "categories": [] }, { "id": 449, "joke": "All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.", "categories": ["nerdy"] }, { "id": 321, "joke": "Chuck Norris is widely predicted to be first black president. If you're thinking to yourself, &quot;But Chuck Norris isn't black&quot;, then you are dead wrong. And stop being a racist.", "categories": [] }, { "id": 402, "joke": "There is no such thing as a lesbian, just a woman who has never met Chuck Norris.", "categories": [] }, { "id": 293, "joke": "70% of a human's weight is water. 70% of Chuck Norris' weight is his dick.", "categories": ["explicit"] } ]  }
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  "tasks": [
+    { "id": 1, "title": "Undichtes Rohr reparieren" },
+    { "id": 2, "title": "Boiler installieren" },
+    { "id": 3, "title": "Heizung Service" }
+  ],
+  "comments": [
+  "description": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 2, "body": "some comment", "postId": 3 }
+  ],
+  "profile": {
+    "name": "typicode"
+    "name": "adam"
+  }
+}
