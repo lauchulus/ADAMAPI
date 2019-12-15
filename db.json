@@ -1,13 +1,8 @@
 {
   "tasks": [
-    { "id": 1, "title": "Undichtes Rohr reparieren" },
-    { "id": 2, "title": "Boiler installieren" },
-    { "id": 3, "title": "Heizung Service" }
-  ],
-  "description": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 3 }
+    { "id": 1, "title": "Undichtes Rohr reparieren", "conatct": "Daniel Kalcher", "location": "3462 Absdorf", "detailText": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts"},
+    { "id": 2, "title": "Boiler installieren", "conatct": "Philipp Weissensteiner", "location": "3430 Tulln", "detailText": "Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia"},
+    { "id": 3, "title": "Heizung Service", "conatct": "Lukas Steininger", "location": "3500 Krems", "detailText": "Pityful a rethoric question ran over her cheek, then"}
   ],
   "profile": {
     "name": "adam"
